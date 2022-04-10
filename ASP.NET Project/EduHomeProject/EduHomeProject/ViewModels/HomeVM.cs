@@ -21,6 +21,8 @@ namespace EduHomeProject.ViewModels
         public StudentHome StudentHome { get; set; }
         public List<HomeBlog> HomeBlog { get; set; }
         public Setting Setting { get; set; }
+      
+
 
 
     }
